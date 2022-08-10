@@ -1,0 +1,7 @@
+[
+  "test_working.py::test_incorrect_hours",
+  "test_working.py::test_incorrect_minutes",
+  "test_working.py::test_invalie_format",
+  "test_working.py::test_omit_to",
+  "test_working.py::test_our_of_range_time"
+]

@@ -1,0 +1,9 @@
+[
+  "test_twttr.py::test_all_vowel",
+  "test_twttr.py::test_lowercase",
+  "test_twttr.py::test_not_vowel",
+  "test_twttr.py::test_nothing",
+  "test_twttr.py::test_numbers",
+  "test_twttr.py::test_punctuation",
+  "test_twttr.py::test_uppercase"
+]

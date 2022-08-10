@@ -1,0 +1,7 @@
+[
+  "test_numb3rs.py::test_correct",
+  "test_numb3rs.py::test_nothing",
+  "test_numb3rs.py::test_string",
+  "test_numb3rs.py::test_valueExceed",
+  "test_numb3rs.py::test_valuesmall"
+]

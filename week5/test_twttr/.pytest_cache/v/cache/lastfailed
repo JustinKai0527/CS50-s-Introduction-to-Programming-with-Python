@@ -1,0 +1,4 @@
+{
+  "test_twttr.py::test_lowercase": true,
+  "test_twttr.py::test_uppercase": true
+}
